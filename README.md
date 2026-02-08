@@ -52,15 +52,16 @@ LinkedIn: https://www.linkedin.com/in/shubham-kumar-yadav-0b2b7029b
 
 ---
 
-©️ Copyright
-
-© 2026 Tic Tac Toe Game
-Designed & Developed by Shubham Kumar Yadav.
-All rights reserved.
-
----
-
 ## 📄 License
 
 This project is licensed under the **MIT License**.  
 See the [LICENSE](./LICENSE) file for more details.
+
+---
+
+## ©️ Copyright
+
+© 2026 **Tic Tac Toe Game**  
+Designed & Developed by **Shubham Kumar Yadav**.  
+All rights reserved.
+
