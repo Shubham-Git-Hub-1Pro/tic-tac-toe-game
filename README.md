@@ -4,7 +4,7 @@ A fully responsive and interactive **Tic Tac Toe game** built using **HTML, CSS,
 The project features a clean UI, smooth animations, score tracking, and works perfectly on both **desktop and mobile devices**.
 
 🔗 **Live Demo:**  
-👉 https://chic-blini-9042da.netlify.app/
+👉 https://chic-blini-9042da.netlify.app
 
 ---
 
